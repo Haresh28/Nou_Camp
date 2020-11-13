@@ -61,7 +61,7 @@
         android:id="@+id/just"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="just rs.750 for an hour from 10th to 20th november 2020"
+        android:text="just rs.750 for an hour from the 10th to the 20th of november 2020"
         android:textSize="28sp"
         android:textColor="@color/black"
         android:fontFamily="sans-serif-condensed"
